@@ -16,6 +16,10 @@ Open your themes folder with your terminal of choice and paste the following:
 
 	git clone https://github.com/stickfab/pc-fluenticons
 
+## Betterdiscord
+
+[Download](https://raw.githubusercontent.com/stickfab/pc-fluenticons/main/FluentIcons.theme.css)
+
 
 ## Quick CSS Installation
 Go to **Settings > Themes > Quick CSS** and add the following code:
